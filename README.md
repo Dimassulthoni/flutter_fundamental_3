@@ -10,3 +10,6 @@ A new Flutter project.
 ## Praktikum 2
 ![Screenshot ff3](images/ff3_4.png)
 
+## Praktikum 3
+![Screenshot ff3](images/ff3_5.png)
+
