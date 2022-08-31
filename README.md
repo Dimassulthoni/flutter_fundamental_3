@@ -3,4 +3,4 @@
 A new Flutter project.
 
 ## Praktikum 1
-![Screenshot flutter fundamental 3] (images/ff3_1.png)
+![Screenshot] (images/ff3_1.png)
